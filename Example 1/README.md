@@ -6,7 +6,7 @@ Write a SQL query to count number of products in each category based on its pric
 3- "High Price" for products with a price greater than 500 <br>
 <br><br>
 Display the output in descending order of no of products.
-<br>
+<br><br>
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/0b2bbdf2-016f-4038-a075-50a836c21fb2" />
 
 <br>

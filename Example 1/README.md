@@ -14,3 +14,4 @@ Display the output in descending order of no of products.
 
 <img width="164" alt="image" src="https://github.com/user-attachments/assets/4aec3d11-f6b5-45c9-9b2f-172c7acf7b09" />
 
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/73bf20c1-ae25-429a-b223-5bb111468958" />
